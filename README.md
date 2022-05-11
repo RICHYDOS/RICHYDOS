@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RICHYDOS
-- 👀 I’m interested in Crypto/Blockchain and Full Stack Development
+- 👀 A Crypto Enthusiast and currently interested in Full Stack Development
 - 🌱 I’m currently learning Html, Css, Javascript, Django
 - 💞️ I’m looking to collaborate on any project really
-- 📫 How to reach me... my twitter - https://twitter.com/RichardDosunmu1
+- 📫 How to reach me... my twitter - https://twitter.com/RichardDosunmu1, my linkedin - https://www.linkedin.com/in/richard-dosunmu-02a867228/
 
 <!---
 RICHYDOS/RICHYDOS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
